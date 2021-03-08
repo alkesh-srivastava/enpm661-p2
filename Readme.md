@@ -67,6 +67,12 @@ At the end of exploration python file, you will get a plot depicting that path o
 ![Exploration](https://github.com/alkesh-umd/enpm661-p2/blob/main/images/5.png)
 
 
+You can take the following as random input to test the program :
+
+1. Start (45,54) - Goal (123,213)
+2. Start (78,8) - Goal (213,213)
+3. Start (45,90) - Goal (12,12)
+
 
 If you suffer any issue running the program, please contact :
 Alkesh Srivastava
